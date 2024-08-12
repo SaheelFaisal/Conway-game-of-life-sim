@@ -44,3 +44,9 @@ To start the simulation, run the following command:
 
 ```bash
 python main.py
+```
+## Controls
+- **Left Click**: Create a cell.
+- **Right Click**: Delete a cell.
+- **Press Space Bar**: Play/Pause the simulation.
+- **Press C**: Clear all the cells
